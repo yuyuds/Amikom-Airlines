@@ -1,0 +1,39 @@
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.exe.config
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.exe
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.pdb
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.xml
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbprojAssemblyReference.cache
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormCariTiket.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormCekKursidanPesawat.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormID_Pengguna.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormJadwal_Keberangkatan.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.Resources.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbproj.GenerateResource.cache
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbproj.CoreCompileInputs.cache
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.exe
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.xml
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.pdb
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormUtama.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormPemesananTiket.resources
+D:\Makul ALL SEMESTER\Semester 4\Perancangan Basis Data (PBD)\fp\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormPenumpang.resources
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.exe.config
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.exe
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.pdb
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\Amikom_Airlines.xml
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbprojAssemblyReference.cache
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormCariTiket.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormCekKursidanPesawat.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormID_Pengguna.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormJadwal_Keberangkatan.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormPemesananTiket.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormPenumpang.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.FormUtama.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.Resources.resources
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbproj.GenerateResource.cache
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbproj.CoreCompileInputs.cache
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.exe
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.xml
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.pdb
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\MaterialSkin.dll
+D:\Amikom_Airlines\Amikom_Airlines\obj\Debug\Amikom_Airlines.vbproj.CopyComplete
+D:\Amikom_Airlines\Amikom_Airlines\bin\Debug\Guna.UI2.dll
